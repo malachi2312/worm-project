@@ -1,0 +1,2 @@
+Content\heart.xnb
+Content\sprites.xnb
