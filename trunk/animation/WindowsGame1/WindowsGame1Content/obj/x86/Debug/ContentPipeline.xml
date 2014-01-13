@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\Desktop\DeskTOp\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\heart.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\Desktop\worm-project\animation\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\heart.xnb</Output>
       <Time>2013-12-23T20:41:51.1661625+07:00</Time>
     </Item>
     <Item>
@@ -16,7 +16,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Documents and Settings\Administrator\Desktop\DeskTOp\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sprites.xnb</Output>
+      <Output>C:\Documents and Settings\Administrator\Desktop\worm-project\animation\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sprites.xnb</Output>
       <Time>2014-01-11T15:33:04.484375+07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
@@ -25,10 +25,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Documents and Settings\Administrator\Desktop\DeskTOp\WindowsGame1\WindowsGame1\WindowsGame1Content\</RootDirectory>
-      <LoggerRootDirectory>C:\Documents and Settings\Administrator\Desktop\DeskTOp\WindowsGame1\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Documents and Settings\Administrator\Desktop\DeskTOp\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Documents and Settings\Administrator\Desktop\DeskTOp\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Documents and Settings\Administrator\Desktop\worm-project\animation\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Administrator\Desktop\worm-project\animation\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Administrator\Desktop\worm-project\animation\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Administrator\Desktop\worm-project\animation\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

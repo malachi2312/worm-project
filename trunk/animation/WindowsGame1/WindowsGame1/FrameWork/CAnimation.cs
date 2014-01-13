@@ -53,6 +53,7 @@ namespace GameFrameWork.Core.Component
             isRunning = false;
         }
 
+
         public void initAnimation(float width, float height, int numFrameInRow , int start, int end, bool isLoop, float animationFps)
         {
             initAnimation(width , height , numFrameInRow , start, end, isLoop, animationFps, start);
@@ -114,6 +115,8 @@ namespace GameFrameWork.Core.Component
             else
             {
                 CDirector.sharedDirector().getScheduler().unscheduleWithTarget(update);
+                //currIdx = startIdx;
+                //updateSourceRect();
             }
         }
 
@@ -170,6 +173,8 @@ namespace GameFrameWork.Core.Component
         public void resetAnimation()
         {
             currIdx = startIdx;
+            updateSourceRect();
+            localTime = 0;
         }
     }
 
