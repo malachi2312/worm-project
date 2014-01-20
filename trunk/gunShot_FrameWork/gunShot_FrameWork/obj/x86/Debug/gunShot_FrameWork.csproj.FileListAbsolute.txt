@@ -1,0 +1,92 @@
+G:\Bee\gunShot_FrameWork\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\cannon.xnb
+G:\Bee\gunShot_FrameWork\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\carriage.xnb
+G:\Bee\gunShot_FrameWork\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\map.xnb
+G:\Bee\gunShot_FrameWork\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\rocket.xnb
+G:\Bee\gunShot_FrameWork\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.exe
+G:\Bee\gunShot_FrameWork\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.pdb
+G:\Bee\gunShot_FrameWork\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.csprojResolveAssemblyReference.cache
+G:\Bee\gunShot_FrameWork\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Bee\gunShot_FrameWork\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.exe
+G:\Bee\gunShot_FrameWork\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.pdb
+G:\Bee\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.csprojResolveAssemblyReference.cache
+G:\Bee\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Bee\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.exe
+G:\Bee\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.pdb
+G:\Bee\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\cannon.xnb
+G:\Bee\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\carriage.xnb
+G:\Bee\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\map.xnb
+G:\Bee\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\rocket.xnb
+G:\Bee\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.exe
+G:\Bee\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.pdb
+D:\GD05_QuocNB\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GD05_QuocNB\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\GD05_QuocNB\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.exe
+D:\GD05_QuocNB\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\cannon.xnb
+D:\GD05_QuocNB\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\carriage.xnb
+D:\GD05_QuocNB\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\map.xnb
+D:\GD05_QuocNB\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\rocket.xnb
+D:\GD05_QuocNB\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.exe
+D:\GD05_QuocNB\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.pdb
+D:\GD05_QuocNB\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.pdb
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\cannon.xnb
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\carriage.xnb
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\map.xnb
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.exe
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.pdb
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.exe
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.pdb
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\worm1.xnb
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\cannon.xnb
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\carriage.xnb
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\map.xnb
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\worm1.xnb
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.exe
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.pdb
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.exe
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.pdb
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\bomb.xnb
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\cannon.xnb
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\carriage.xnb
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\map.xnb
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\rocket.xnb
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\worm1.xnb
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\bomb.xnb
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.exe
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.pdb
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.exe
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.pdb
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\cannon.xnb
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\carriage.xnb
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\map.xnb
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\rocket.xnb
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\worm1.xnb
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\bomb.xnb
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.exe
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.pdb
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.exe
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.pdb
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\bullet.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\cannon.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\carriage.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\map.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\worm1.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\bomb.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\bullet.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.exe
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\gunShot_FrameWork.pdb
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.exe
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\obj\x86\Debug\gunShot_FrameWork.pdb
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWork\bin\x86\Debug\Content\worm_sheet.xnb

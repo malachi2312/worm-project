@@ -1,0 +1,8 @@
+G:\Bee\gunShot_FrameWork\gunShot_FrameWork\gunShot_FrameWorkContent\obj\x86\Debug\gunShot_FrameWorkContent.contentprojResolveAssemblyReference.cache
+G:\Bee\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWorkContent\obj\x86\Debug\gunShot_FrameWorkContent.contentprojResolveAssemblyReference.cache
+D:\GD05_QuocNB\gunShot_FrameWork - Copy\gunShot_FrameWork\gunShot_FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\gunshot_finished\gunShot_FrameWork\gunShot_FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\project demo\gunshot_finished\gunShot_FrameWork\gunShot_FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\academy\Desktop\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GD05_QuocNB\gunshot_explosion\gunShot_FrameWork\gunShot_FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\worm-project\gunshot_explosion_onMap_Finished\gunShot_FrameWork\gunShot_FrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
