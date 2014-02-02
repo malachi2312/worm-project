@@ -107,8 +107,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GUI\About.cs" />
     <Compile Include="AppMacro.cs" />
     <Compile Include="Bullet.cs" />
+    <Compile Include="Button.cs" />
     <Compile Include="Explosion.cs" />
     <Compile Include="Explosions.cs" />
     <Compile Include="FrameWork\CAction.cs" />
@@ -133,8 +135,12 @@
     <Compile Include="FrameWork\CSprite.cs" />
     <Compile Include="FrameWork\CTexture.cs" />
     <Compile Include="FrameWork\CTextureCache.cs" />
+    <Compile Include="GUI\HowToPlay.cs" />
     <Compile Include="IteratorList.cs" />
     <Compile Include="Level.cs" />
+    <Compile Include="GUI\MainMenu.cs" />
+    <Compile Include="GUI\MapMenu.cs" />
+    <Compile Include="GUI\Option.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
