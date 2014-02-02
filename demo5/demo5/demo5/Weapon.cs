@@ -12,7 +12,7 @@ using GameFrameWork.Core;
 using Microsoft.Xna.Framework.Input;
 namespace demo5
 {
-    class Weapon:CNode
+    class Weapon : CNode
     {
         public CSprite weapon;
         float weaponPositionX;
@@ -28,21 +28,21 @@ namespace demo5
             weapon = CSprite.create("gunBlue");
             weapon.setRotation(weaponRotation);
             weapon.setScale(17f / (float)weapon.getContentSize().width);
-      
+
             this.addChild(weapon);
             weaponColorArray = map.TextureTo2DArray(weapon.getTexture());
         }
 
         void UpdateWeaponPosition(Player player)
         {
-           player.playerPosition.Y = (float)Math.Floor((player.playerPosition.Y));
+            player.playerPosition.Y = (float)Math.Floor((player.playerPosition.Y));
             weapon.setPosition(player.playerPosition.X, player.playerPosition.Y);
         }
 
         bool isLeft, isRight;
         public void UpdateWeapon(float dt, Player player)
         {
-            if (Keyboard.GetState().IsKeyDown(Keys.D) && isRight == false )
+            if (Keyboard.GetState().IsKeyDown(Keys.D) && isRight == false)
             {
                 isRight = true;
                 isLeft = false;

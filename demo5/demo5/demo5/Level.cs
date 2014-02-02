@@ -14,18 +14,6 @@ using Microsoft.Xna.Framework.Input;
 
 namespace demo5
 {
-    //public struct ParticleData
-    //{
-    //    public float BirthTime;
-    //    public float MaxAge;
-    //    public Vector2 OrginalPosition;
-    //    public Vector2 Accelaration;
-    //    public Vector2 Direction;
-    //    public Vector2 Position;
-    //    public float Scaling;
-    //    public Color ModColor;
-    //}
-
     class Level:CNode
     {
         Terrain map;
@@ -35,8 +23,8 @@ namespace demo5
         Texture2D explosionTexture;
         List<ParticleData> listParitcle = new List<ParticleData>();
         Explosions explosion;
-       // Random randomizer = new Random();
-        bool isPress = false;
+     
+        bool isPress;
         public static CScene scene()
         {
             CScene scene = new CScene();
@@ -51,7 +39,7 @@ namespace demo5
             player = new Player(map);
             weapon = new Weapon(player.playerPosition.X + 10, player.playerPosition.Y, map);
             explosionTexture = CDirector.sharedDirector().getContentManager().Load<Texture2D>("explosion");
-            explosion = new Explosions();
+            explosion = new Explosions(map);
             this.addChild(weapon);
             this.addChild(player);  
             this.scheduleUpdate();
@@ -72,62 +60,43 @@ namespace demo5
 
             if (isCollideTexture)
                 player.velocity.Y = 0;
-
+            if (explosion.listParitcle.Count == 0)
+                ProcessBullet(dt);            
+          
+            explosion.CheckParticle(CDirector.sharedDirector().getShareGameTime());
+          
+           
+        }
+        void ProcessBullet(float dt)
+        {
             if (Keyboard.GetState().IsKeyDown(Keys.Space))
             {
                 isPress = true;
             }
 
-            else if (Keyboard.GetState().IsKeyUp(Keys.Space) && isPress == true)
+             if (Keyboard.GetState().IsKeyUp(Keys.Space) && isPress == true)
             {
                 Bullet bullet = new Bullet(player, weapon, map);
                 listBullets.Add(bullet);
                 bullet.bulletFlying = true;
                 this.addChild(bullet);
-                isPress = false;  
+                isPress = false;
             }
 
             for (int i = listBullets.Count - 1; i >= 0; i--)
             {
                 Bullet bullet = listBullets[i];
-                if(bullet.bulletFlying)
+                if (bullet.bulletFlying)
                 {
-                  
                     CheckCollision(dt, bullet);
+                  
                 }
-                
-            }           
+
+            }
+
+          
         }
-
-        //private void AddExplosion(Vector2 explosionPos, int numberOfParticles, float size, float maxAge, GameTime gameTime)
-        //{
-        //    for (int i = 0; i < numberOfParticles; i++)
-        //        AddExplosionParticle(explosionPos, size, maxAge,gameTime);
-        //}
-
-        //private void AddExplosionParticle(Vector2 explosionPos, float explosionSize, float maxAge, GameTime gameTime)
-        //{
-        //    ParticleData particle = new ParticleData();
-
-        //    particle.OrginalPosition = explosionPos;
-        //    particle.Position = particle.OrginalPosition;
-
-        //    particle.BirthTime = (float)gameTime.TotalGameTime.TotalMilliseconds;
-        //    particle.MaxAge = maxAge;
-        //    particle.Scaling = 0.25f;
-        //    particle.ModColor = Color.White;
-
-        //    float particleDistance = (float)randomizer.NextDouble() * explosionSize;
-        //    Vector2 displacement = new Vector2(particleDistance, 0);
-        //    float angle = MathHelper.ToRadians(randomizer.Next(360));
-        //    displacement = Vector2.Transform(displacement, Matrix.CreateRotationZ(angle));
-
-        //    particle.Direction = displacement;
-        //    particle.Accelaration = 3.0f * particle.Direction;
-
-        //    listParitcle.Add(particle);
-        //}
-
+      
         public override void draw()
         {
             map.Draw(CDirector.sharedDirector().getSharedSpriteBatch());
@@ -139,19 +108,6 @@ namespace demo5
             explosion.DrawExplosion(CDirector.sharedDirector().getSharedSpriteBatch());
         }
 
-        //public void DrawExplosion()
-        //{
-        //    CDirector.sharedDirector().getSharedSpriteBatch().Begin(SpriteSortMode.Deferred, BlendState.Additive);
-        //    for (int i = 0; i < listParitcle.Count; i++)
-        //    {
-        //        ParticleData particle = listParitcle[i];
-                
-        //        CDirector.sharedDirector().getSharedSpriteBatch().Draw(explosionTexture, particle.Position, null,
-        //            particle.ModColor, i, new Vector2(256, 256), particle.Scaling, SpriteEffects.None, 1);
-               
-        //    }
-        //    CDirector.sharedDirector().getSharedSpriteBatch().End();
-        //}
         Vector2 TexturesCollide(Color[,] tex1, Matrix mat1, Color[,] tex2, Matrix mat2)
         {
             Matrix mat1to2 = mat1 * Matrix.Invert(mat2);
@@ -199,13 +155,10 @@ namespace demo5
             Matrix terrainMat = Matrix.Identity;
             Vector2 terrainCollisionPoint = TexturesCollide(bullet.bulletColorArray, bulletMat, map.foregroundColorArray, terrainMat);
             return terrainCollisionPoint;
+          
         }
 
-        //Vector2 CheckPlayerCollision()
-        //{
-        //    Matrix bulletMat = Matrix.CreateTranslation(-42, -240, 0) * Matrix.CreateRotationZ(bullet.angle) * Matrix.CreateScale(bullet.bulletScaling) * Matrix.CreateTranslation(bullet.bulletPosition.X, bullet.bulletPosition.Y, 0);
-
-        //}
+       
 
         bool CheckOutOfScreen(Bullet bullet)
         {
@@ -229,7 +182,9 @@ namespace demo5
                 bullet.removeFromParentWithCleanUp();
                 listBullets.Remove(bullet);
               
-                explosion.AddExplosion(terrainCollisionPoint, 4, 30f, 1000f, CDirector.sharedDirector().getShareGameTime());
+                explosion.AddExplosion(terrainCollisionPoint, 4, 40f, 1000f, CDirector.sharedDirector().getShareGameTime());
+                map.CreateForeground();
+                map.UpdateTerrain();
             }
 
             if (bulletOutOfScreen)
@@ -239,6 +194,7 @@ namespace demo5
                 bullet.removeFromParentWithCleanUp();
                 listBullets.Remove(bullet);
             }
+           
         }
 
         static bool IntersectPixel(Rectangle rect1, Color[] colorData1,
