@@ -14,3 +14,19 @@ C:\Documents and Settings\Administrator\Desktop\project demo\demo5\demo5\demo5\b
 C:\Documents and Settings\Administrator\Desktop\project demo\demo5\demo5\demo5\bin\x86\Debug\Content\explosion.xnb
 C:\Documents and Settings\Administrator\Desktop\project demo\demo5\demo5\demo5\bin\x86\Debug\Content\bomb.xnb
 C:\Documents and Settings\Administrator\Desktop\project demo\demo5\demo5\demo5\bin\x86\Debug\Content\explosion_bubble.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\Content\foreground.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\Content\gound1.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\Content\ground.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\Content\gunBlue.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\Content\worm_sheet.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\Content\smoke.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\Content\explosion.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\Content\bomb.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\Content\explosion_bubble.xnb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\demo5.exe
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\bin\x86\Debug\demo5.pdb
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\obj\x86\Debug\demo5.exe
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5\obj\x86\Debug\demo5.pdb
