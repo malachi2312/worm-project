@@ -16,7 +16,7 @@ namespace demo5
     class Bullet:CNode
     {
         public CSprite bullet;
-        public float bulletScaling = 0.15f;
+        public float bulletScaling = 0.1f;
 
         float bulletAngle;
         public bool bulletFlying = false;
@@ -54,7 +54,7 @@ namespace demo5
             if (bulletFlying == true)
             {
                 Vy += g * dt;
-
+     
                 float xNew = bullet.getPosition().x + (float)Vx * dt * scaleV;
                 float yNew = bullet.getPosition().y - (float)Vy * dt * scaleV;
 
@@ -65,7 +65,8 @@ namespace demo5
                 angle = MathHelper.ToDegrees(angle);
                 bullet.setRotation(angle + 90);
 
-                bullet.setPosition(bulletPosition.X, bulletPosition.Y);     
+                bullet.setPosition(bulletPosition.X, bulletPosition.Y);
+              
             }
           
                  

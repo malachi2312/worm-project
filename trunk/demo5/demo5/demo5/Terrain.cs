@@ -46,7 +46,11 @@ namespace demo5
         }
 
 
-
+        public void UpdateTerrain()
+        {
+            mapDataColor = new Color[(int)foregroundTexture.Width * (int)foregroundTexture.Height];
+            foregroundTexture.GetData(mapDataColor);
+        }
 
         void GenerateTerrainContour()
         {
@@ -56,9 +60,9 @@ namespace demo5
             float flatness = 70;
             for (int x = 0; x < screenWidth; x++)
             {
-                double height = peakheight / 3 * Math.Sin((float)x / flatness * 3 + 3);
-                height += peakheight / 4 * Math.Sin((float)x / flatness * 4 + 4);
-                height += peakheight / 5 * Math.Sin((float)x / flatness * 5 + 5);
+                double height = peakheight / 3 * Math.Sin((float)x / flatness * 2 + 4);
+                height += peakheight / 4 * Math.Sin((float)x / flatness * 2 + 2);
+                height += peakheight / 5 * Math.Sin((float)x / flatness * 3 + 2);
                 height += offset;
                 terrainContour[x] = (int)height;
 
@@ -84,9 +88,7 @@ namespace demo5
             }
 
             foregroundTexture = new Texture2D(device, screenWidth, screenHeight, false, SurfaceFormat.Color);
-            foregroundTexture.SetData(foregroundColors);
-
-          
+            foregroundTexture.SetData(foregroundColors);        
         }
 
 
