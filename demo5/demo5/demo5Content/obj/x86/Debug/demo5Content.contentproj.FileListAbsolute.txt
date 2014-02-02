@@ -1,1 +1,2 @@
 C:\Documents and Settings\Administrator\Desktop\project demo\demo5\demo5\demo5Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\worm-project\demo5\demo5\demo5Content\obj\x86\Debug\ResolveAssemblyReference.cache
