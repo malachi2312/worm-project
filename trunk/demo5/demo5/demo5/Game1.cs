@@ -28,8 +28,8 @@ namespace demo5
         {
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
-            graphics.PreferredBackBufferWidth = 500;
-            graphics.PreferredBackBufferHeight = 500;
+            graphics.PreferredBackBufferWidth = 1000;
+            graphics.PreferredBackBufferHeight = 600;
             CDirector.sharedDirector().setGraphicsDeviceManager(this.graphics);
             CDirector.sharedDirector().setContentManager(this.Content);
             CDirector.sharedDirector().setGraphicsDevice(this.GraphicsDevice);
@@ -45,7 +45,7 @@ namespace demo5
 
             base.Initialize();
 
-            CDirector.sharedDirector().runWithScene(Level.scene());
+            CDirector.sharedDirector().runWithScene(MainMenu.scene());
         }
 
 
