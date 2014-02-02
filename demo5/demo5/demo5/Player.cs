@@ -67,8 +67,8 @@ namespace demo5
         {
             playerPosition.Y = (float)Math.Floor((playerPosition.Y));
             playerAnimation.setPosition(playerPosition.X, playerPosition.Y);
-            playerRectangle = new Rectangle((int)playerAnimation.getPosition().x, (int)playerAnimation.getPosition().y,
-                (int)playerAnimation.getContentSize().width, (int)(playerAnimation.getContentSize().height / 3.5f));
+            playerRectangle = new Rectangle((int)playerAnimation.getPosition().x -12, (int)playerAnimation.getPosition().y,
+                (int)(playerAnimation.getContentSize().width), (int)(playerAnimation.getContentSize().height / 3.5f));
         }
 
         public void UpdatePlayer(float dt)
