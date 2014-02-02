@@ -50,7 +50,6 @@ namespace demo5
         {
             mapDataColor = new Color[(int)foregroundTexture.Width * (int)foregroundTexture.Height];
             foregroundTexture.GetData(mapDataColor);
-            foregroundColorArray = TextureTo2DArray(foregroundTexture);
         }
 
         void GenerateTerrainContour()
