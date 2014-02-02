@@ -1,2 +1,3 @@
 C:\Documents and Settings\Administrator\Desktop\project demo\demo5\demo5\demo5Content\obj\x86\Debug\ResolveAssemblyReference.cache
 G:\Bee\demo5\demo5\demo5Content\obj\x86\Debug\demo5Content.contentprojResolveAssemblyReference.cache
+G:\Bee\worm_project\demo5\demo5\demo5Content\obj\x86\Debug\demo5Content.contentprojResolveAssemblyReference.cache
