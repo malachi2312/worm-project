@@ -65,19 +65,18 @@ namespace demo5
 
             this.addChild(playerAnimation);
 
+            //HP
             healthBar1 = CSprite.create("volumeBar");
             healthBar1.setAnchorPoint(CPoint.create(0, 0));
-            //healthBar1.setScale(0.2f);
             healthBar1.setPosition(0, 70);
 
             healthBar2 = CSprite.create("volumeBar");
             healthBar2.setAnchorPoint(CPoint.create(0, 0));
-            //healthBar2.setScale(0.2f);
             healthBar2.setColor(Color.Red);
             healthBar2.setPosition(0, 70);
 
             fullHealth = 100;
-            healthPoint = 70;
+            healthPoint = 30;
 
             playerAnimation.addChild(healthBar1);
             playerAnimation.addChild(healthBar2);
