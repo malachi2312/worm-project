@@ -32,17 +32,20 @@ namespace demo5
 
         public Color[,] playerColorArray;
 
+        int fullHealth;
+        public int healthPoint;
+
+        CSprite healthBar1;
+        CSprite healthBar2;
+
         public Player(Terrain map)
         {
-
             SetUpPlayer();
-            playerColorArray = map.TextureTo2DArray(playerTexture.getTexture());
-            
+            playerColorArray = map.TextureTo2DArray(playerTexture.getTexture());   
         }
 
         void SetUpPlayer()
-        {
-            
+        {     
             playerAnimation = CAnimationSprite.create("worm_sheet", 64, 64);
             move = CAnimation.create(64, 64, 3, 0, 2, false, 0.2f);
             idle = CAnimation.create(64, 64, 3, 0, 0, false, 0.2f);
@@ -61,6 +64,23 @@ namespace demo5
             playerAnimation.getAnimator().addAnimation("idle", idle);
 
             this.addChild(playerAnimation);
+
+            healthBar1 = CSprite.create("volumeBar");
+            healthBar1.setAnchorPoint(CPoint.create(0, 0));
+            //healthBar1.setScale(0.2f);
+            healthBar1.setPosition(0, 70);
+
+            healthBar2 = CSprite.create("volumeBar");
+            healthBar2.setAnchorPoint(CPoint.create(0, 0));
+            //healthBar2.setScale(0.2f);
+            healthBar2.setColor(Color.Red);
+            healthBar2.setPosition(0, 70);
+
+            fullHealth = 100;
+            healthPoint = 70;
+
+            playerAnimation.addChild(healthBar1);
+            playerAnimation.addChild(healthBar2);
         }
 
         public void UpdateRect()
@@ -73,8 +93,8 @@ namespace demo5
 
         public void UpdatePlayer(float dt)
         {
-
             ControlPlayers();
+            healthControl();
         }
 
         void ControlPlayers()
@@ -118,6 +138,11 @@ namespace demo5
                 playerPosition.Y = 500 - playerAnimation.getContentSize().height / 2;
                 velocity.Y = 0;
             }
+        }
+        void healthControl()
+        {
+            float healthPercent = (float)healthPoint / fullHealth;
+            healthBar2.setScaleX(healthPercent);
         }
     }
 }

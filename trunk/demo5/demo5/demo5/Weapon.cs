@@ -39,7 +39,8 @@ namespace demo5
             weapon.setPosition(player.playerPosition.X, player.playerPosition.Y);
         }
 
-        bool isLeft, isRight;
+        bool isLeft = true,
+             isRight = false;
         public void UpdateWeapon(float dt, Player player)
         {
             if (Keyboard.GetState().IsKeyDown(Keys.D) && isRight == false)
