@@ -45,12 +45,10 @@ namespace WindowsGame2
 
             if (isMouseOver == true)
             {
+                if (mouse.LeftButton == ButtonState.Pressed)
+                    isClick = true;
                 normalButton.setIsVisible(false);
                 hoverButton.setIsVisible(true);
-                if (mouse.LeftButton == ButtonState.Pressed)
-                {
-                    isClick = true;
-                }
             }
             else
             {

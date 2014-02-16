@@ -51,7 +51,6 @@ namespace WindowsGame2
         int fullHealth;
         public int healthPoint;
         public float movePoint;
-        int fullMove;
 
         CSprite healthBar1;
         CSprite healthBar2;
@@ -101,9 +100,7 @@ namespace WindowsGame2
             fullHealth = 100;
             healthPoint = 100;
 
-            fullMove = 30;
             movePoint = 30;
-
 
             playerAnimation.addChild(healthBar1);
             playerAnimation.addChild(healthBar2);
@@ -124,7 +121,7 @@ namespace WindowsGame2
                 (int)playerAnimation.getContentSize().width, (int)(playerAnimation.getContentSize().height / 3.5f));
 
             playerRectangle2 = new Rectangle((int)playerPosition.X - (int)(playerAnimation.getContentSize().width/2f) + 4, (int)playerPosition.Y - 30,
-                (int)(playerAnimation.getContentSize().width)  , (int)(playerAnimation.getContentSize().height - 15));
+                (int)(playerAnimation.getContentSize().width)  , (int)(playerAnimation.getContentSize().height - 5));
 
             playerRectangle3 = new Rectangle((int)playerPosition.X , (int)playerPosition.Y - 35,
                 (int)(playerAnimation.getContentSize().width -  30), (int)(playerAnimation.getContentSize().height / 2f));

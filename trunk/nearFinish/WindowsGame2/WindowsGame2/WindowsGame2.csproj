@@ -107,7 +107,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Button2.cs" />
+    <Compile Include="GUI\Button2.cs" />
+    <Compile Include="GUI\Button3.cs" />
     <Compile Include="Escape.cs" />
     <Compile Include="GameOver.cs" />
     <Compile Include="GUI\About.cs" />
