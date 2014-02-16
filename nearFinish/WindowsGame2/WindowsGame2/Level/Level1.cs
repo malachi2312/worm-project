@@ -239,7 +239,7 @@ namespace WindowsGame2
         }
         //processBullet
         int bulletStyle;
-        
+        bool explore = false;
         void ProcessBullet(float dt)
         {
             
@@ -301,27 +301,38 @@ namespace WindowsGame2
                 //check intersect bullet
                 for (int q = 0; q < listWorms.Count; q++)
                 {
-                    if (IntersectPixel(bullet.bulletRectangle, bullet.bulletColorData, listWorms[q].playerRectangle2, listWorms[q].playerColorData))
-                    {
-                        listWorms[q].healthPoint -= 20;
-                    }
                     if (IntersectPixel(bullet.bulletRectangle, bullet.bulletColorData, listWorms[q].playerRectangle2, listWorms[q].playerColorData)
                         || IntersectPixel(bullet.bulletRectangle, bullet.bulletColorData, map.mapRect, map.mapColor))
                     {
                         AddCrater(bullet);
                         i++;
                         isShot = false;
+
+                        explore = true;
                     }
+                    if (IntersectPixel(bullet.bulletRectangle, bullet.bulletColorData, listWorms[q].playerRectangle2, listWorms[q].playerColorData))
+                    {
+                        listWorms[q].healthPoint -= 20;
+                    }                  
                 }
                 //change Turn and return movePoint
                 if (i > listWorms.Count - 1)
                     i = 0;
                 if (isShot == false)
                     listWorms[i].movePoint = 30;
+
+                if (explore == true)
+                {
+                    bullet.unscheduleUpdate();
+                    bullet.stopAllAction();
+                    bullet.removeFromParentWithCleanUp();
+                    listBullets.Remove(bullet);
+                    explore = false;
+                }
             }
             //set powerPoint and movePoint
             powerPoint.setScaleX((float)Vpoint / 50.0f);
-            movePoint.setScaleX((float)listWorms[i].movePoint / 30.0f);
+            movePoint.setScaleX((float)listWorms[i].movePoint / 30.0f);            
         }
 
         bool CheckOutOfScreen(Bullet bullet)
@@ -358,13 +369,7 @@ namespace WindowsGame2
 
             map.map.getTexture().SetData<Color>(0, screenRect, color1, 0, 100 * 100);
             map.mapColor = new Color[(int)map.map.getContentSize().width * (int)map.map.getContentSize().height];
-            map.map.getTexture().GetData(map.mapColor);
-
-
-            bullet.unscheduleUpdate();
-            bullet.stopAllAction();
-            bullet.removeFromParentWithCleanUp();
-            listBullets.Remove(bullet);
+            map.map.getTexture().GetData(map.mapColor);           
         }
 
 

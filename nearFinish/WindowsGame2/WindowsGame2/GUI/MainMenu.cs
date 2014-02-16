@@ -43,6 +43,10 @@ namespace WindowsGame2
 
         Song menuMusic;
 
+        Button3 musicButton;
+        CSprite musicOn;
+        CSprite musicOff;
+
         public static bool exit;
 
         public MainMenu()
@@ -77,6 +81,11 @@ namespace WindowsGame2
             this.addChild(aboutButton);
             this.addChild(howToPlayButton);
 
+            musicOn = CSprite.create("Button\\musicOn");
+            musicOff = CSprite.create("Button\\musicOf");
+            musicButton = new Button3(musicOn, musicOff,950,550);
+            this.addChild(musicButton);
+
             this.scheduleUpdate();
         }
 
@@ -84,7 +93,6 @@ namespace WindowsGame2
 
         public override void update(float dt)
         {
-           
 
             if (Mouse.GetState().LeftButton == ButtonState.Pressed  )
             {

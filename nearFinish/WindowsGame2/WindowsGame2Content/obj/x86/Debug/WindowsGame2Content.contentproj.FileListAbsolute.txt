@@ -11,3 +11,4 @@ G:\underfinish\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyRef
 D:\underfinish\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\nearFinish\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Bee\worm_project\nearFinish\WindowsGame2\WindowsGame2Content\obj\x86\Debug\WindowsGame2Content.contentprojResolveAssemblyReference.cache
