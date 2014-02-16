@@ -1,0 +1,587 @@
+D:\New folder\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New folder\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\New folder\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\deform.xnb
+D:\New folder\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+D:\New folder\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+D:\New folder\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\New folder\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\New folder\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\New folder\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\New folder\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+D:\New folder\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\deform.xnb
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+C:\Documents and Settings\Administrator\Desktop\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\deform.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\About.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backButton.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backButtonHover.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion_bubble.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\foreground.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gound1.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ground.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\healthBar.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HowToPlay.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\HowToPlayHover.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\MainMenu.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuAbout.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuAboutHover.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuExit.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuExitHover.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuHowToPlay.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuOption.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuOptionHover.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuPlay.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuPlayHover.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\map1_Hover.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\map1_Normal.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\map1_Hover.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\map1_Normal.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\MapMenu.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuBackground.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuExit.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuExitHover.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuPlay.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuPlayHover.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\onTurnArrow.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Option.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\powerBar.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\volumeBar.xnb
+D:\GD05_QuocNB\WindowsGame2\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\deform.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\About.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backButton.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backButtonHover.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion_bubble.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\foreground.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gound1.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ground.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\healthBar.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HowToPlay.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\HowToPlayHover.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\MainMenu.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuAbout.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuAboutHover.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuExit.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuExitHover.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuHowToPlay.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuOption.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuOptionHover.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuPlay.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuPlayHover.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\map1_Hover.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\map1_Normal.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\map1_Hover.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\map1_Normal.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\MapMenu.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuBackground.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuExit.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuExitHover.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuPlay.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuPlayHover.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\onTurnArrow.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Option.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\powerBar.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\volumeBar.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\GD05_QuocNB\here\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\deform.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\About.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backButton.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backButtonHover.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion_bubble.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\foreground.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gound1.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ground.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\healthBar.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HowToPlay.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\HowToPlayHover.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\MainMenu.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuAbout.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuAboutHover.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuExit.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuExitHover.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuHowToPlay.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuOption.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuOptionHover.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuPlay.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuPlayHover.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\map1_Hover.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\map1_Normal.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\map1_Hover.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\map1_Normal.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\MapMenu.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuBackground.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuExit.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuExitHover.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuPlay.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuPlayHover.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\onTurnArrow.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Option.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\powerBar.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\volumeBar.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New folder\New folder\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\New folder\New folder\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\New folder\New folder\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\New folder\New folder\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\mask.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\deform.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\About.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backButton.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backButtonHover.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion_bubble.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\foreground.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gound1.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ground.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\healthBar.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HowToPlay.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\HowToPlayHover.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\MainMenu.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuAbout.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuAboutHover.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuExit.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuExitHover.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuHowToPlay.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuOption.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuOptionHover.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuPlay.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuPlayHover.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\map1_Hover.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\map1_Normal.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\map1_Hover.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\map1_Normal.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\MapMenu.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuBackground.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuExit.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuExitHover.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuPlay.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuPlayHover.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\onTurnArrow.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Option.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\powerBar.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\volumeBar.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\mask.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+G:\Bee\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\deform.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\About.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backButton.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\backButtonHover.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion_bubble.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\foreground.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gound1.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ground.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\healthBar.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\HowToPlay.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\HowToPlayHover.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\MainMenu.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuAbout.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuAboutHover.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuExit.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuExitHover.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuHowToPlay.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuOption.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuOptionHover.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuPlay.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MainMenu\menuPlayHover.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\map1_Hover.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\map1_Normal.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\map1_Hover.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\map1_Normal.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\MapMenu\MapMenu.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuBackground.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuExit.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuExitHover.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuPlay.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\menuPlayHover.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\onTurnArrow.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Option.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\powerBar.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\volumeBar.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\mask.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\SpriteFont1.xnb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\New folder\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\deform.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion_bubble.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\healthBar.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\powerBar.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\volumeBar.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\mask.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.csprojResolveAssemblyReference.cache
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButton.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButtonHover.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\HowToPlayHover.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAbout.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAboutHover.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuExit.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuExitHover.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuHowToPlay.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuOption.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuOptionHover.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlay.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlayHover.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Hover.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Normal.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\About.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\HowToPlay.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MainMenu.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MapMenu.xnb
+G:\Bee\worm_project\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\Option.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\deform.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\About.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButton.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButtonHover.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion_bubble.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\healthBar.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\HowToPlay.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\HowToPlayHover.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MainMenu.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAbout.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAboutHover.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuExit.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuExitHover.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuHowToPlay.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuOption.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuOptionHover.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlay.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlayHover.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Hover.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Normal.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MapMenu.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\Option.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\powerBar.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\volumeBar.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\mask.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+F:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+F:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+F:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\deform.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\About.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButton.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButtonHover.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion_bubble.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\healthBar.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\HowToPlay.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\HowToPlayHover.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MainMenu.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAbout.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAboutHover.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuExit.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuExitHover.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuHowToPlay.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuOption.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuOptionHover.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlay.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlayHover.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Hover.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Normal.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MapMenu.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\Option.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\powerBar.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\volumeBar.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\mask.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+G:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+G:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+G:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\deform.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sky.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\About.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButton.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButtonHover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion_bubble.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\healthBar.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\HowToPlay.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\HowToPlayHover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MainMenu.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAbout.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAboutHover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuExit.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuExitHover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuHowToPlay.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuOption.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuOptionHover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlay.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlayHover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Hover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Normal.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MapMenu.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\Option.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\smoke.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\volumeBar.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\mask.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\DinoMap.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\level1.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\underfinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\power.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\powerBar.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\move.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\MarioMap.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\level3.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\GroundMap.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\level2.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map2_Hover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map2_Normal.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map3_Hover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map3_Normal.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMainMenuHover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMainMenuNormal.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMapMenuHover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMapMenuNormal.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\QuitHover.xnb
+D:\underfinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\QuitNormal.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\About.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButton.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButtonHover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\healthBar.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\HowToPlay.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MainMenu.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAbout.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAboutHover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlay.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlayHover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Hover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Normal.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MapMenu.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\volumeBar.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\mask.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\level.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\DinoMap.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\level1.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\power.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\powerBar.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\move.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\level3.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\MarioMap.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\GroundMap.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\level2.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map2_Hover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map2_Normal.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map3_Hover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map3_Normal.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMainMenuHover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMainMenuNormal.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMapMenuHover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMapMenuNormal.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\QuitHover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\QuitNormal.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\bullet1Hover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\bullet1Normal.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\bullet2Hover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\bullet2Normal.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+D:\nearFinish\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\nearFinish\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\nearFinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+D:\nearFinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuQuit.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuQuitHover.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuHelp.xnb
+D:\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuHelpHover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.exe
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\obj\x86\Debug\WindowsGame2.pdb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\worm_sheet.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\gunBlue.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\rocket.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bomb.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\bullet.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\target.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\About.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButton.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\backButtonHover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\healthBar.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\HowToPlay.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MainMenu.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAbout.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuAboutHover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlay.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuPlayHover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Hover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map1_Normal.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\BackGroundMenu\MapMenu.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\volumeBar.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\mask.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\DinoMap.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\level1.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\power.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\powerBar.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\move.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\level3.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\MarioMap.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\GroundMap.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Map\level2.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map2_Hover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map2_Normal.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map3_Hover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\map3_Normal.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMainMenuHover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMainMenuNormal.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMapMenuHover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\backToMapMenuNormal.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\QuitHover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Escape\QuitNormal.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\bullet1Hover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\bullet1Normal.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\bullet2Hover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ToolBar\bullet2Normal.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuQuit.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuQuitHover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuHelp.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Button\menuHelpHover.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.exe
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\WindowsGame2.pdb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Sound\soundgun.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Sound\BGMusic.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Sound\menuMusic.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Sound\BGMusic.wma
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Sound\menuMusic.wma
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\FireBall.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\explosion.xnb
+C:\Documents and Settings\Administrator\Desktop\nearFinish\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Sound\bombExplosion.xnb
